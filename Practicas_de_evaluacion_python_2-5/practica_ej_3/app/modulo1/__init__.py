@@ -1,0 +1,1 @@
+# Archivo "lista.py" para el ejercicio
